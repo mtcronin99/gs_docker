@@ -22,7 +22,7 @@ mkdir out
 ```
 ## Running
 Place your input PDF file in `~/gs/in` called, for example,
-`example.pdf`.
+`example.pdf`.  Run the container/sanitizer app using the following command:
 ```
 <gs_docker_dir>/sanitize_pdf.sh example.pdf
 ```
